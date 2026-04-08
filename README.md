@@ -29,12 +29,12 @@ The data are licensed under the [Creative Commons Attribution 4.0 International 
 
 You are free to share and adapt the data provided appropriate credit is given. If you use these data, please cite the following paper:
 
-Känzig, Diego R. (2026).  
-*The Unequal Consequences of Carbon Pricing.*  
+Känzig, Diego R. and Raghavan, Ramya (2026).  
+*The Macroeconomic Effects of Supply Chain Shocks: Evidence from Global Shipping Disruptions.*  
 [Working paper](https://dkaenzig.github.io/diegokaenzig.com/Papers/kr_supplychainshocks.pdf)
 
 ```bibtex
-@techreport{kanzig2023unequal,
+@techreport{kanzig2026supplychain,
   title       = {The macroeconomic effects of supply chain shocks: Evidence from global shipping disruptions},
   author      = {K{\"a}nzig, Diego R. and Raghavan, Ramya},
   type        = {Unpublished manuscript},
